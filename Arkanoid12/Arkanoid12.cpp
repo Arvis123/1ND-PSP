@@ -16,7 +16,6 @@ using namespace std;
 
 int main()
 {
-
 	cout << "Welcome to Arkanoid" << endl;
 	cout << "Press P to start the game" << endl;
 	cout << "Press E to leave now" << endl;
